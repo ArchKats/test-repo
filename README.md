@@ -1,2 +1,3 @@
-# test-repo
-This is a test repo
+# Test Repo
+
+This is not just a repo, this a repo for the Git Workshop by ACM AUTh.
